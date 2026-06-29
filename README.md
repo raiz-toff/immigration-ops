@@ -74,10 +74,11 @@ It is honest about complexity rather than giving comfortable but imprecise answe
 See [docs/SETUP.md](docs/SETUP.md) for complete setup instructions.
 
 **Quick start:**
-1. Install your preferred AI CLI (Claude Code, Gemini CLI, or Codex CLI)
-2. Open a terminal in this directory
-3. Run your AI CLI
-4. Start talking — ImmigrationOps will guide you from there
+1. Clone the repository: `git clone https://github.com/raiz-toff/immigration-ops.git`
+2. Enter the directory: `cd immigration-ops`
+3. Install your preferred AI CLI (Claude Code, Gemini CLI, or Codex CLI)
+4. Launch it: `claude` / `gemini` / `codex`
+5. Start talking — ImmigrationOps will guide you from there
 
 On first launch, ImmigrationOps will introduce itself and begin learning
 about your situation. You do not need to fill in any forms or configure
